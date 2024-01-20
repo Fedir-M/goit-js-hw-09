@@ -36,3 +36,11 @@ body {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.04em;
 }
+
+label {
+  font-family: inherit;
+}
+
+button {
+  font-family: inherit;
+}
